@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PlantTrackerConsoleApp/PlantTrackerConsoleApp.iml" filepath="$PROJECT_DIR$/PlantTrackerConsoleApp/PlantTrackerConsoleApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/plant-tracker.iml" filepath="$PROJECT_DIR$/.idea/plant-tracker.iml" />
+    </modules>
+  </component>
+</project>
